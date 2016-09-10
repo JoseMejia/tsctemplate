@@ -1,0 +1,9 @@
+node_modules
+dist
+.tmp
+.vscode
+bower_components
+test/bower_components
+app/scripts
+test/spec
+typings

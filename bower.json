@@ -1,0 +1,8 @@
+{
+  "name": "Jose´s Template",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "materialize": "^0.97.7"
+  }
+}
